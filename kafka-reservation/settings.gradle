@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-reservation'
+
+include 'reservation'
+include 'consumer'
+include 'common'

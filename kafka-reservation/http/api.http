@@ -1,0 +1,7 @@
+POST http://localhost:8081/articles
+Content-Type: application/json
+
+{
+  "userId" : 1,
+  "gameId" : 1
+}
